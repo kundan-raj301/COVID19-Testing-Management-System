@@ -1,4 +1,5 @@
-How to run the COVID19 Testing Management System Using PHP and MySQL
+
+How to run the **COVID19 Testing Management System** Using  **PHP and MySQL**
 
 Download the zip file
 
@@ -8,7 +9,7 @@ Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp 
 
 Open PHPMyAdmin (http://localhost/phpmyadmin)
 
-Create a database with name covidtmsdb
+Create a **database** with name **covidtmsdb**
 
 Import covidtmsdb.sql file(given inside the zip package in SQL file folder)
 
@@ -16,5 +17,5 @@ Run the script http://localhost/covid-tms
 
 Admin Credential
 
-Username: kundan_raj301
-Password: 123kundan
+**Username: kundan_raj301** <br>
+**Password: 123kundan**
